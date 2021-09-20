@@ -1,7 +1,7 @@
 Set of basic API tools for Cisco vManage
 
-Add vManage address and credentials to includes.py
-Run template.py
+- Add vManage address and credentials to includes.py
+- Run template.py
 
 Currently has presents a menu with the following capabilities:
 1. List Edges
